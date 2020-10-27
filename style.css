@@ -94,6 +94,7 @@ height: 100vh;
 
 .link-blue{
     color: #0095f6;
+    cursor: pointer;
 }
 
 .get-the-app{
@@ -125,7 +126,7 @@ height: 100vh;
 
 .app-download:nth-child(2){
     background-image: url('./img/googleboton.png');
-    background-position: center right, center center;*/
+    background-position: center right, center center;
     }
 
 /* media queries*/
